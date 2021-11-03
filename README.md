@@ -6,9 +6,9 @@
   💸 Educa$e - Educação Financeira
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vhasousa/educase">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vhasousa/educase">
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
