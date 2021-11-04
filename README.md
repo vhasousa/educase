@@ -6,6 +6,8 @@
   💸 Educa$e - Educação Financeira
 </h4>
 <p align="center">
+  <img alt="Objetivo: estudo" src="https://img.shields.io/badge/purpose-study-lightgrey?style=flat">
+
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vhasousa/educase">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/vhasousa/educase">
